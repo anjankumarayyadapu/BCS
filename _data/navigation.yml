@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Body of Work"
+    url: /Body of Work/
+  - title: "Professional Impact"
+    url: /Professional Impact/
+  - title: "Additional Sub-Criterion"
+    url: /Additional Sub-Criterion/
+  - title: "Standing in Community"
+    url: /Standing in Community/
