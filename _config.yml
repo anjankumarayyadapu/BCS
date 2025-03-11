@@ -68,6 +68,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-google-scholar"
       url: "https://scholar.google.com/citations?user=zz_hiRsAAAAJ&hl=en"
+    - label: "Researchgate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Anjan-Kumar-Ayyadapu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anjanreddy111"
@@ -89,7 +92,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: " "
+    - label: "Google Scholar"
       icon: "fab fa-google-schola"
       url: "https://scholar.google.com/citations?user=zz_hiRsAAAAJ&hl=en"
 
