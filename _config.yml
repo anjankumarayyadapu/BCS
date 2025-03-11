@@ -80,18 +80,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+ #   - label: "Twitter"
+ #    icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/anjanreddy8686/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: " "
+      icon: "fab fa-google-schola"
+      url: "https://scholar.google.com/citations?user=zz_hiRsAAAAJ&hl=en"
 
 defaults:
   # _posts
