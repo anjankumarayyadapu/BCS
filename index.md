@@ -7,8 +7,12 @@ author_profile: true
 ---
 
 
-**Anjan Kumar Reddy Ayyadapu** is a Big Data Solutions Architect at Cloudera, specializing in leading Edge to AI Platform Solutions. He has significantly contributed to digital transformation for major enterprises by delivering innovative solutions on hybrid data platforms, utilizing generative AI and secure data management. Anjan holds numerous certifications (from various providers like Amazon Web Services, IBM, DataBricks, Stanford University, Google Cloud, and the Project Management Institute (PMI)), including IBM AI Engineering Professional, IBM Applied AI Professional, AWS Certified Solution Architect Professional, and AWS Certified Machine Learning Specialist. He has expertise in Cyber Security Administration across both private and public clouds like AWS and GCP.
+I am **Anjan Kumar Reddy Ayyadapu**, a Big Data Solutions Architect Leader at Cloudera, with a specialization in leading-edge AI platform solutions. This page has been created to provide supporting evidence for the sub-sections of my application for **BCS Fellow Membership**.
 
-- Project 1
-- Project 2
-- Project 3
+Below are the supporting evidences for the various categories:
+
+- Body of Work
+- Professional Impact
+- Additional Sub-Criterion
+- Standing in Community
+
