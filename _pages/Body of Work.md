@@ -87,6 +87,12 @@ The cloud migration was successfully completed within the projected timeline and
 
    ![Award](/assets/images/xScionSpotBonus.jpg) 
 
+<figure>
+    <img src="/assets/images/xScionSpotBonus.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
 By successfully leading this cloud migration initiative, I not only modernized Fannie Mae’s data infrastructure but also transformed its ability to leverage data for strategic decision-making. The transition to the cloud enhanced operational efficiency, reduced costs, and enabled AI-driven financial insights, positioning Fannie Mae for sustained growth, innovation, and compliance in a competitive market.
 
 [FannieMae Migration to AWS]: https://www.nextplatform.com/2021/12/09/fannie-mae-moves-more-mission-critical-mortgage-work-to-aws
