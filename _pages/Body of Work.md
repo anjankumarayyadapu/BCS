@@ -3,7 +3,7 @@ permalink: /Body of Work/
 title: "Body of Work"
 ---
 
-Situation:
+# Situation:
 
 Fannie Mae, one of the largest government-sponsored enterprises (GSEs) in the U.S. housing market, faced significant challenges in managing its massive mortgage and loan datasets. These datasets were stored on legacy on-premises systems that were not only costly to maintain but also lacked scalability, limiting the company's ability to efficiently process and analyze data.
 
@@ -19,11 +19,11 @@ However, the migration posed several challenges due to:
 - Strict regulatory and security compliance requirements that mandated data privacy and encryption.
 - The need to maintain business continuity while ensuring minimal disruption to ongoing financial operations.
 
-Task:
+# Task:
 
 As a Big Data Solutions Architect, I was entrusted with leading the cloud migration initiative, ensuring a seamless transition from on-premises data storage to the cloud while maintaining compliance with industry regulations and data security protocols.
 
-My primary objectives included:
+## My primary objectives included:
 
 - Developing a robust migration strategy to ensure minimal downtime and seamless business operations.
 - Enhancing data accessibility and scalability to support faster data processing.
@@ -32,14 +32,14 @@ My primary objectives included:
 
 Additionally, I was responsible for ensuring that stakeholders—including business leaders, compliance teams, and IT personnel—were aligned on the goals, risks, and expected benefits of the migration.
 
-Action:
+# Action:
  
-Data Assessment and Cloud Selection:
+## Data Assessment and Cloud Selection:
 - I led an in-depth assessment of the existing on-premises data ecosystem, identifying critical datasets, dependencies, and security risks.
 - I worked closely with business analysts, compliance officers, and IT teams to establish key data migration priorities and define a governance framework.
 - After a detailed evaluation of cloud service providers, I recommended AWS due to its robust compliance features, cost efficiency, and scalable architecture.
 
-Cloud Migration Strategy:
+## Cloud Migration Strategy:
 - I designed a phased migration approach, prioritizing high-value datasets while implementing real-time data replication mechanisms to minimize downtime.
 - To ensure security and regulatory compliance, I:
     - Implemented end-to-end encryption for data at rest and in transit.
@@ -47,43 +47,48 @@ Cloud Migration Strategy:
     - Integrated audit trails and logging mechanisms for regulatory reporting.
 - I set up disaster recovery strategies and high-availability configurations to mitigate risks during and after the migration.
 
-Integration and Automation:
+## Integration and Automation:
 - I collaborated with data engineers and cloud architects to build automated data pipelines, leveraging:
     - AWS Glue for ETL processes.
     - AWS Lambda and Apache NiFi for seamless data migration.
     - S3 and Redshift for cost-effective cloud storage and analytics.
 - I introduced data transformation and cleansing processes to ensure that migrated data met quality, integrity, and consistency standards.
 
-Testing and Validation:
+## Testing and Validation:
 - I conducted rigorous performance testing to ensure that the cloud infrastructure was optimized for:
     - Scalability (handling increasing workloads efficiently).
     - Reliability (ensuring minimal downtime and high availability).
     - Security (validating encryption, access control, and compliance with industry standards).
 - To maintain data accuracy, I implemented multiple rounds of validation, ensuring that migrated datasets were complete, accurate, and fully functional in the cloud environment.
 
-Result:
+# Result:
 
 The cloud migration was successfully completed within the projected timeline and budget, resulting in significant improvements across multiple areas.
 
-Key Success Outcomes:
+## Key Success Outcomes:
 
-✔ Cost Reduction:
+✔ **Cost Reduction:**
     - Achieved a 30% cost savings by eliminating legacy infrastructure maintenance and optimizing cloud storage utilization.
 
-✔ Enhanced Performance & Scalability:
+✔ **Enhanced Performance & Scalability:**
     - Improved data access and processing speeds, enabling real-time insights for loan approvals and risk management.
 
-✔ Advanced Analytics & AI Integration:
+✔ **Advanced Analytics & AI Integration:**
     - The cloud platform enabled AI-driven analytics, allowing Fannie Mae to:
         - Better assess loan performance using machine learning models.
         - Predict mortgage defaults with increased accuracy.
         - Optimize the mortgage approval process, reducing processing time.
 
-✔ Regulatory Compliance & Security:
+✔ **Regulatory Compliance & Security:**
     - Implemented robust security controls, ensuring full compliance with financial regulations while maintaining data integrity and privacy.
     - Enforced encryption at rest and in transit, alongside audit logs for traceability and compliance reporting.
     
-✔ Recognition & Impact:
+✔ **Recognition & Impact:**
     - My leadership and strategic execution were recognized at the senior executive level, and I was awarded a spot bonus for my contributions.
 
 By successfully leading this cloud migration initiative, I not only modernized Fannie Mae’s data infrastructure but also transformed its ability to leverage data for strategic decision-making. The transition to the cloud enhanced operational efficiency, reduced costs, and enabled AI-driven financial insights, positioning Fannie Mae for sustained growth, innovation, and compliance in a competitive market.
+
+[FannieMae Migration to AWS] (https://www.nextplatform.com/2021/12/09/fannie-mae-moves-more-mission-critical-mortgage-work-to-aws/)
+
+![image](https://github.com/user-attachments/assets/a333af22-9942-471c-a400-5f78f3734a96)
+
