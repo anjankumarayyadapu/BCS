@@ -19,10 +19,10 @@ In addition to my technical responsibilities, I was also a recognized public inf
 
 ### My task was to leverage my expertise to:
 
-  ✔ Promote Cloudera’s Data Platform and AWS Cloud Services among enterprise stakeholders.
-  ✔ Educate and advocate for big data best practices, ensuring organizations understood how to extract maximum value from their data ecosystems.
-  ✔ Position cloud-native architectures as the foundation for scalable, secure, and high-performance data strategies across industries.
-  ✔ Influence industry adoption by engaging with developers, data engineers, and IT decision-makers through public speaking, thought leadership, and content creation.
+  - Promote Cloudera’s Data Platform and AWS Cloud Services among enterprise stakeholders.
+  - Educate and advocate for big data best practices, ensuring organizations understood how to extract maximum value from their data ecosystems.
+  - Position cloud-native architectures as the foundation for scalable, secure, and high-performance data strategies across industries.
+  - Influence industry adoption by engaging with developers, data engineers, and IT decision-makers through public speaking, thought leadership, and content creation.
 
 By effectively bridging the gap between technical expertise and strategic business adoption, I aimed to accelerate cloud transformation journeys for enterprises.
 
