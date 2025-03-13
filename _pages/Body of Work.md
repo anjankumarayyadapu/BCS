@@ -85,7 +85,7 @@ The cloud migration was successfully completed within the projected timeline and
 ✔ **Recognition & Impact:**
     - My leadership and strategic execution were recognized at the senior executive level, and I was awarded a spot bonus for my contributions.
 
-   ![Award](/assets/images/xScionSpotBonus.jpg) 
+   ![Award](/assets/images/RIM04164.jpg) 
 
 <figure>
     <img src="/assets/images/xScionSpotBonus.jpg"
