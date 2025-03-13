@@ -4,7 +4,7 @@ permalink: /Standing in Community/
 ---
 ## Situation:
 
-As a Solution Architect at Cloudera Inc. and later as a Big Data AWS Cloud Specialist at Amazon Web Services (AWS), I worked with organizations across the finance, healthcare, and technology sectors. These clients faced critical challenges in:
+As a Leader Solution Architect at Cloudera Inc. and later as a Big Data AWS Cloud Specialist at Amazon Web Services (AWS), I worked with organizations across the finance, healthcare, and technology sectors. These clients faced critical challenges in:
 
   - Scaling their data environments to accommodate growing business needs.
   - Managing vast and complex datasets across hybrid and multi-cloud ecosystems.
