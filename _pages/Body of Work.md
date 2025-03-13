@@ -5,8 +5,8 @@ title: "Body of Work"
 
 ## Situation:
 
-<p> Fannie Mae, one of the largest government-sponsored enterprises (GSEs) in the U.S. housing market, faced significant challenges in managing its massive mortgage and loan datasets. These datasets were stored on legacy on-premises systems that were not only costly to maintain but also lacked scalability, limiting the company's ability to efficiently process and analyze data.
-</p>
+Fannie Mae, one of the largest government-sponsored enterprises (GSEs) in the U.S. housing market, faced significant challenges in managing its massive mortgage and loan datasets. These datasets were stored on legacy on-premises systems that were not only costly to maintain but also lacked scalability, limiting the company's ability to efficiently process and analyze data.
+
 As the demand for real-time data processing, risk analysis, and regulatory reporting increased, the existing infrastructure became a bottleneck, affecting operational efficiency, decision-making speed, and financial forecasting accuracy. Recognizing these challenges, Fannie Mae made the strategic decision to migrate to the cloud, aiming to:
 
 - Improve efficiency by modernizing infrastructure.
@@ -85,7 +85,7 @@ The cloud migration was successfully completed within the projected timeline and
 ✔ **Recognition & Impact:**
     - My leadership and strategic execution were recognized at the senior executive level, and I was awarded a spot bonus for my contributions.
 
-[image]: https://github.com/user-attachments/assets/a333af22-9942-471c-a400-5f78f3734a96](https://github.com/anjankumarayyadapu/BCS/blob/master/assets/images/xScionSpotBonus.jpg
+   ![Award]:(assets/images/xScionSpotBonus.jpg)
 
 By successfully leading this cloud migration initiative, I not only modernized Fannie Mae’s data infrastructure but also transformed its ability to leverage data for strategic decision-making. The transition to the cloud enhanced operational efficiency, reduced costs, and enabled AI-driven financial insights, positioning Fannie Mae for sustained growth, innovation, and compliance in a competitive market.
 
