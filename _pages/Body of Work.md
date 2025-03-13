@@ -33,12 +33,12 @@ Additionally, I was responsible for ensuring that stakeholders—including busin
 
 ## Action:
  
-### Data Assessment and Cloud Selection:
+### 1. Data Assessment and Cloud Selection:
 - I led an in-depth assessment of the existing on-premises data ecosystem, identifying critical datasets, dependencies, and security risks.
 - I worked closely with business analysts, compliance officers, and IT teams to establish key data migration priorities and define a governance framework.
 - After a detailed evaluation of cloud service providers, I recommended AWS due to its robust compliance features, cost efficiency, and scalable architecture.
 
-### Cloud Migration Strategy:
+### 2. Cloud Migration Strategy:
 - I designed a phased migration approach, prioritizing high-value datasets while implementing real-time data replication mechanisms to minimize downtime.
 - To ensure security and regulatory compliance, I:
     - Implemented end-to-end encryption for data at rest and in transit.
@@ -46,14 +46,14 @@ Additionally, I was responsible for ensuring that stakeholders—including busin
     - Integrated audit trails and logging mechanisms for regulatory reporting.
 - I set up disaster recovery strategies and high-availability configurations to mitigate risks during and after the migration.
 
-### Integration and Automation:
+### 3. Integration and Automation:
 - I collaborated with data engineers and cloud architects to build automated data pipelines, leveraging:
     - AWS Glue for ETL processes.
     - AWS Lambda and Apache NiFi for seamless data migration.
     - S3 and Redshift for cost-effective cloud storage and analytics.
 - I introduced data transformation and cleansing processes to ensure that migrated data met quality, integrity, and consistency standards.
 
-### Testing and Validation:
+### 4. Testing and Validation:
 - I conducted rigorous performance testing to ensure that the cloud infrastructure was optimized for:
     - Scalability (handling increasing workloads efficiently).
     - Reliability (ensuring minimal downtime and high availability).
