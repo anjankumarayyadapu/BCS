@@ -1,5 +1,5 @@
 ---
 title: "Professional Impact"
-layout: categories
+layout: professional
 permalink: /Professional Impact/
 ---
