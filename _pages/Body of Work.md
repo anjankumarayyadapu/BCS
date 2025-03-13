@@ -5,8 +5,8 @@ title: "Body of Work"
 
 ## Situation:
 
-Fannie Mae, one of the largest government-sponsored enterprises (GSEs) in the U.S. housing market, faced significant challenges in managing its massive mortgage and loan datasets. These datasets were stored on legacy on-premises systems that were not only costly to maintain but also lacked scalability, limiting the company's ability to efficiently process and analyze data.
-
+<p>Fannie Mae, one of the largest government-sponsored enterprises (GSEs) in the U.S. housing market, faced significant challenges in managing its massive mortgage and loan datasets. These datasets were stored on legacy on-premises systems that were not only costly to maintain but also lacked scalability, limiting the company's ability to efficiently process and analyze data.
+</p>
 As the demand for real-time data processing, risk analysis, and regulatory reporting increased, the existing infrastructure became a bottleneck, affecting operational efficiency, decision-making speed, and financial forecasting accuracy. Recognizing these challenges, Fannie Mae made the strategic decision to migrate to the cloud, aiming to:
 
 - Improve efficiency by modernizing infrastructure.
@@ -29,7 +29,7 @@ As a Big Data Solutions Architect Leader, I was entrusted with leading the cloud
 - Enabling advanced analytics capabilities for improved loan performance assessment, default prediction, and mortgage approval optimization.
 - Ensuring compliance with financial industry regulations, including encryption, security monitoring, and governance policies.
 
-Additionally, I was responsible for ensuring that stakeholders—including business leaders, compliance teams, and IT personnel—were aligned on the goals, risks, and expected benefits of the migration.
+Additionally, I was responsible for ensuring that stakeholders including business leaders, compliance teams, and IT personnel were aligned on the goals, risks, and expected benefits of the migration.
 
 ## Action:
  
