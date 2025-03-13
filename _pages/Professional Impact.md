@@ -30,7 +30,7 @@ My ultimate objective was to bridge the gap between business and technology, sim
 
 To achieve these goals, I conducted workshops with non-technical stakeholders to understand their pain points and data requirements. This feedback helped in designing a solution tailored to their needs.
 
-### Simplified Data Access & Dashboards
+### 1. Simplified Data Access & Dashboards
 #### 📊 User-Friendly Dashboards:
 
   - Designed and implemented interactive dashboards using Cloudera’s Data Visualization tools & Apache Superset.
@@ -43,7 +43,7 @@ To achieve these goals, I conducted workshops with non-technical stakeholders to
   - Created custom APIs and automated workflows, ensuring seamless integration with business applications.
   - Reduced dependency on engineering teams by enabling users to access frequently requested datasets instantly.
 
-### Training & Support Initiatives
+### 2. Training & Support Initiatives
 #### 🎓 Comprehensive Training Program:
 
   - Conducted hands-on workshops and training sessions tailored for non-technical teams, focusing on:
@@ -61,7 +61,7 @@ To achieve these goals, I conducted workshops with non-technical stakeholders to
   - Rolled out an internal knowledge hub, providing a centralized repository of best practices, FAQs, and troubleshooting tips.
 
 
-### Cross-Functional Collaboration & Governance
+### 3. Cross-Functional Collaboration & Governance
 #### 🤝 Bridging the Gap Between Business & IT:
 
   - Established a dedicated communication channel where non-technical users could submit requests or collaborate with data engineers & analysts.
