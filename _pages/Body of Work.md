@@ -21,7 +21,7 @@ However, the migration posed several challenges due to:
 
 ## Task:
 
-As a Big Data Solutions Architect, I was entrusted with leading the cloud migration initiative, ensuring a seamless transition from on-premises data storage to the cloud while maintaining compliance with industry regulations and data security protocols.
+As a Big Data Solutions Architect Leader, I was entrusted with leading the cloud migration initiative, ensuring a seamless transition from on-premises data storage to the cloud while maintaining compliance with industry regulations and data security protocols.
 ### My primary objectives included:
 
 - Developing a robust migration strategy to ensure minimal downtime and seamless business operations.
