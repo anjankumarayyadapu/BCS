@@ -1,8 +1,6 @@
 ---
 permalink: /Body of Work/
 title: "Body of Work"
-layout: Body
-author_profile: true
 ---
 
 Fannie Mae is one of the largest government-sponsored enterprises (GSEs) in the
