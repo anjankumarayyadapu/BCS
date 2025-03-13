@@ -86,8 +86,11 @@ The cloud migration was successfully completed within the projected timeline and
     - My leadership and strategic execution were recognized at the senior executive level, and I was awarded a spot bonus for my contributions.
 
 <iframe src="https://drive.google.com/file/d/1EduU6IJPRGJacsRgzhM0n9xowrL9Yrb1/preview" width="640" height="480" allow="autoplay"></iframe>
+
 *xScion SpotBonus Awards*
+
 <iframe src="https://drive.google.com/file/d/1CzKOJn5VwFvZkq1j59AWseSgazZ2T2Y8/preview" width="640" height="480" allow="autoplay"></iframe>
+
 *xScion Email Appreciation*
 
 By successfully leading this cloud migration initiative, I not only modernized Fannie Mae’s data infrastructure but also transformed its ability to leverage data for strategic decision-making. The transition to the cloud enhanced operational efficiency, reduced costs, and enabled AI-driven financial insights, positioning Fannie Mae for sustained growth, innovation, and compliance in a competitive market.
