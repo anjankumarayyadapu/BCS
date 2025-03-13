@@ -5,7 +5,7 @@ title: "Body of Work"
 
 ## Situation:
 
-<p>Fannie Mae, one of the largest government-sponsored enterprises (GSEs) in the U.S. housing market, faced significant challenges in managing its massive mortgage and loan datasets. These datasets were stored on legacy on-premises systems that were not only costly to maintain but also lacked scalability, limiting the company's ability to efficiently process and analyze data.
+<p> Fannie Mae, one of the largest government-sponsored enterprises (GSEs) in the U.S. housing market, faced significant challenges in managing its massive mortgage and loan datasets. These datasets were stored on legacy on-premises systems that were not only costly to maintain but also lacked scalability, limiting the company's ability to efficiently process and analyze data.
 </p>
 As the demand for real-time data processing, risk analysis, and regulatory reporting increased, the existing infrastructure became a bottleneck, affecting operational efficiency, decision-making speed, and financial forecasting accuracy. Recognizing these challenges, Fannie Mae made the strategic decision to migrate to the cloud, aiming to:
 
