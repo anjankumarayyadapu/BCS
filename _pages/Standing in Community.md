@@ -90,7 +90,7 @@ My role as a public influencer has resulted in significant impact to the tech co
   - Enabled faster deployment of cloud-based data pipelines, improving operational efficiency for multiple Fortune 500 companies.
   - Helped enterprises reduce big data processing costs while enhancing performance and security.
 
-#####✅ Community Impact & Engagement:
+##### ✅ Community Impact & Engagement:
 
   - Expanded knowledge-sharing across Cloudera & AWS employees, industry leaders, and data practitioners, bridging technical expertise with real-world application.
   - Established a strong professional network, fostering cross-industry collaborations on big data innovations.
