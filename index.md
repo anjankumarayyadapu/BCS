@@ -11,8 +11,11 @@ I am **Anjan Kumar Reddy Ayyadapu**, a Big Data Solutions Architect Leader at Cl
 
 Below are the supporting evidences for the various categories:
 
-- Body of Work
+- [Body of Work]: https://anjankumarayyadapu.github.io/BCS/Body%20of%20Work/
 - Professional Impact
 - Additional Sub-Criterion
 - Standing in Community
 
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
