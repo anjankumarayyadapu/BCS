@@ -27,9 +27,9 @@ In addition to my technical responsibilities, I was also a recognized public inf
 By effectively bridging the gap between technical expertise and strategic business adoption, I aimed to accelerate cloud transformation journeys for enterprises.
 
 ## Action:
-### To accomplish these goals, I adopted a systematic approach:
+To accomplish these goals, I adopted a systematic approach:
 
-#### Thought Leadership and Public Speaking:
+#### 1. Thought Leadership and Public Speaking:
 
 ##### 🎤 Conference & Event Engagements:
   - Regularly delivered keynote speeches, technical sessions, and panel discussions at major industry conferences, including:
@@ -44,7 +44,7 @@ By effectively bridging the gap between technical expertise and strategic busine
       - Automated data governance & compliance
       - Accelerated AI/ML-driven decision-making
 
-#### Content Creation & Social Media Engagement:
+#### 2. Content Creation & Social Media Engagement:
 ##### 📝 Technical Blogs & Thought Pieces:
 
   - Authored technical deep dives, industry insights, and best practice guides on cloud migration strategies, data pipeline optimization, AI/ML integration, and data security.
@@ -58,7 +58,7 @@ By effectively bridging the gap between technical expertise and strategic busine
       - Hybrid cloud best practices
   - Built a strong following and established a thought leadership presence, fostering discussions on the future of enterprise data platforms.
 
-#### Customer Education and Enablement:
+#### 3. Customer Education and Enablement:
 ##### 🎓 Enterprise Training & Hands-On Workshops:
 
   - Led in-depth technical training sessions for internal teams, enterprise clients, and industry partners, ensuring seamless adoption of AWS & Cloudera solutions.
