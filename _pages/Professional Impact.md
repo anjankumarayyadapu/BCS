@@ -23,6 +23,7 @@ I was tasked with enhancing the accessibility and usability of Cloudera DataServ
   - Make data-driven decisions with minimal reliance on technical teams.
   - Collaborate effectively with technical teams to align business needs with data solutions.
   - Improve compliance and governance by ensuring data integrity and security.
+
 My ultimate objective was to bridge the gap between business and technology, simplifying the user experience while maintaining the power and flexibility of Cloudera DataServices.
 
 ## Action:
@@ -60,7 +61,7 @@ To achieve these goals, I conducted workshops with non-technical stakeholders to
   - Rolled out an internal knowledge hub, providing a centralized repository of best practices, FAQs, and troubleshooting tips.
 
 
-###Cross-Functional Collaboration & Governance
+### Cross-Functional Collaboration & Governance
 #### 🤝 Bridging the Gap Between Business & IT:
 
   - Established a dedicated communication channel where non-technical users could submit requests or collaborate with data engineers & analysts.
@@ -78,23 +79,23 @@ My solution transformed the way non-technical users engaged with Cloudera DataSe
 
 #### 📈 50% Increase in Platform Adoption:
 
-  - Business users embraced self-service data access, significantly reducing IT dependency and boosting productivity.
+Business users embraced self-service data access, significantly reducing IT dependency and boosting productivity.
 
 #### ⚡ Faster, More Informed Decision-Making:
 
-  - Enabled real-time access to key financial and risk metrics, improving response time to market changes and regulatory requirements.
+Enabled real-time access to key financial and risk metrics, improving response time to market changes and regulatory requirements.
 
 #### ⏳ Streamlined Workflows & Reporting Efficiency:
 
-  - Reduced the time required to generate business reports and insights by 40%, leading to quicker strategic decision-making.
+Reduced the time required to generate business reports and insights by 40%, leading to quicker strategic decision-making.
 
 #### 🛡 Stronger Data Governance & Compliance:
 
-  - Implemented role-based access and audit trails, reducing the risk of non-compliance and security breaches by 30%.
+Implemented role-based access and audit trails, reducing the risk of non-compliance and security breaches by 30%.
 
 #### 🏆 Recognition & Awards:
 
-  - My contributions were recognized at an organizational level, and I was honored with a Commitment Award for driving data accessibility and innovation.
+My contributions were recognized at an organizational level, and I was honored with a Commitment Award for driving data accessibility and innovation.
 
 🚀 By simplifying data access, enabling self-service analytics, and strengthening governance, I empowered non-technical stakeholders to make data-driven decisions with confidence.
 This initiative not only enhanced the usability of Cloudera DataServices but also unlocked the full potential of enterprise data, driving business growth, operational efficiency, and strategic agility.
