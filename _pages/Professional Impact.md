@@ -96,6 +96,8 @@ Implemented role-based access and audit trails, reducing the risk of non-complia
 #### 🏆 Recognition & Awards:
 
 My contributions were recognized at an organizational level, and I was honored with a Commitment Award for driving data accessibility and innovation.
+<iframe src="https://drive.google.com/file/d/19ZssOZVve83iVrXeYHO63hmIbty9jrpW/preview" width="640" height="480" allow="autoplay"></iframe>
+_**Cloudera Commitment CodeAwards**_
 
 🚀 By simplifying data access, enabling self-service analytics, and strengthening governance, I empowered non-technical stakeholders to make data-driven decisions with confidence.
 This initiative not only enhanced the usability of Cloudera DataServices but also unlocked the full potential of enterprise data, driving business growth, operational efficiency, and strategic agility.
