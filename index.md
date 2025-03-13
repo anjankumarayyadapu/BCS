@@ -17,12 +17,7 @@ Below are the supporting evidences for the various categories:
 - [Standing in Community][community]
 
 [bodyofwork]: https://anjankumarayyadapu.github.io/BCS/Body%20of%20Work/
-[professional]: https://anjankumarayyadapu.github.io/BCS/Body%20of%20Work/
-[sub]: https://anjankumarayyadapu.github.io/BCS/Body%20of%20Work/
-[community]: https://anjankumarayyadapu.github.io/BCS/Body%20of%20Work/
+[professional]: https://anjankumarayyadapu.github.io/BCS/Professional%20Impact/
+[sub]: https://anjankumarayyadapu.github.io/BCS/Additional%20Sub-Criterion/
+[community]: https://anjankumarayyadapu.github.io/BCS/Standing%20in%20Community/
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
