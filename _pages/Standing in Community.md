@@ -1,6 +1,6 @@
 ---
 title: "Standing in Community"
 permalink: /Standing in Community/
-layout: posts
+layout: community
 author_profile: true
 ---
