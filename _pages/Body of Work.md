@@ -15,16 +15,14 @@ Action:
  
     Data Assessment and Cloud Selection:
     • I led a thorough assessment of the existing data systems, identifying the critical datasets and understanding their dependencies.
-    • I collaborated with stakeholders to determine the best cloud provider and architecture (choosing AWS for its flexibility, scalability, and compliance
-    capabilities).
+    • I collaborated with stakeholders to determine the best cloud provider and architecture (choosing AWS for its flexibility, scalability, and compliance capabilities).
 
     Cloud Migration Strategy:
-    • I developed a phased migration plan that included the prioritization of highvalue datasets for migration and developed a framework for data
-    governance.
+    • I developed a phased migration plan that included the prioritization of highvalue datasets for migration and developed a framework for data governance.
     • I ensured that all sensitive data was encrypted and maintained compliance with regulatory standards.
 
     Integration and Automation:
-    •  I worked closely with data engineers to develop automated data pipelines for migrating legacy data to the cloud, leveraging cloud-native tools.
+    • I worked closely with data engineers to develop automated data pipelines for migrating legacy data to the cloud, leveraging cloud-native tools.
     • I implemented data transformation and cleansing processes to ensure data quality during the migration.
 
     Testing and Validation:
@@ -38,5 +36,5 @@ Result:
     As a success result:
     • The cloud infrastructure enabled significant cost reductions (estimated at30%) by eliminating the need for maintaining legacy systems and reducingon-premises data storage.
     • Data access and processing speeds improved drastically, enabling faster decision-making and better risk management.
-    • The cloud platform facilitated advanced analytics, allowing Fannie Mae to better assess loan performance, predict defaults, and optimize the  mortgage approval process.
-    • Compliance and security standards were met, with data encrypted at rest and in transit, ensuring that industry regulations were adhered to without  compromising performance. My efforts were recognized     at a senior level for being exceptional, and I was awarded a spot bonus in acknowledgment of this achievement.
+    • The cloud platform facilitated advanced analytics, allowing Fannie Mae to better assess loan performance, predict defaults, and optimize the mortgage approval process.
+    • Compliance and security standards were met, with data encrypted at rest and in transit, ensuring that industry regulations were adhered to without compromising performance. My efforts were recognized at a senior level for being exceptional, and I was awarded a spot bonus in acknowledgment of this achievement.
