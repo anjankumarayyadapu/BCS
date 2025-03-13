@@ -27,9 +27,9 @@ These challenges not only impacted operational efficiency but also hindered thei
 This required a multi-pronged approach—technical enhancements, automation, training, and strategic consulting.
 
 ## Action:
-### To achieve these objectives, I implemented a structured, outcome-driven approach:
+To achieve these objectives, I implemented a structured, outcome-driven approach:
 
-### Stakeholder Engagement & Current State Assessment
+### 1. Stakeholder Engagement & Current State Assessment
 #### 👥 Understanding Business & Technical Needs:
 
   - Conducted workshops and deep-dive assessments with CTOs, Data Architects, and Business Leaders to evaluate their existing data infrastructure, pain points, and future goals.
@@ -42,7 +42,7 @@ This required a multi-pronged approach—technical enhancements, automation, tra
   - Inefficient Data Governance: Audited existing policies to strengthen access control, data lineage tracking, and encryption.
   - Limited AI/ML Utilization: Identified opportunities for integrating predictive analytics, fraud detection models, and real-time anomaly detection.
 
-### Architecture Design & Optimization
+### 2. Architecture Design & Optimization
 #### 🏗 Scalable & High-Performance Data Architecture:
 
   - Designed optimized data architectures leveraging Cloudera’s advanced capabilities, including:
@@ -62,7 +62,7 @@ This required a multi-pronged approach—technical enhancements, automation, tra
   - Implemented real-time fraud detection models for financial institutions, enhancing security and reducing fraudulent transactions.
   - Helped healthcare providers leverage predictive analytics for patient risk assessment and early disease detection.
 
-### Data Pipeline Automation & Performance Enhancement
+### 3. Data Pipeline Automation & Performance Enhancement
 #### 🔄 Automating Data Pipelines & ETL Workflows:
 
   - Implemented Cloudera DataFlow (CDF) and Apache NiFi to automate data ingestion, transformation, and real-time streaming analytics.
@@ -74,7 +74,7 @@ This required a multi-pronged approach—technical enhancements, automation, tra
   - Tuned Impala, Hive, and Kudu configurations to accelerate complex queries and improve query throughput.
   - Implemented partitioning, bucketing, and caching strategies to enhance performance and reduce storage costs.
 
-### Training, Enablement & Knowledge Transfer
+### 4. Training, Enablement & Knowledge Transfer
 #### 📚 Empowering Client Teams with Technical Training:
 
   - Designed custom training modules tailored to data engineers, analysts, and business leaders, ensuring they could fully leverage Cloudera’s tools.
