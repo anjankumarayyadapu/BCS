@@ -86,9 +86,13 @@ The cloud migration was successfully completed within the projected timeline and
 ✔ **Recognition & Impact:**
     - My leadership and strategic execution were recognized at the senior executive level, and I was awarded a spot bonus for my contributions.
 
+[image]([https://github.com/user-attachments/assets/a333af22-9942-471c-a400-5f78f3734a96](https://github.com/anjankumarayyadapu/BCS/blob/master/assets/images/xScionSpotBonus.jpg))
+
 By successfully leading this cloud migration initiative, I not only modernized Fannie Mae’s data infrastructure but also transformed its ability to leverage data for strategic decision-making. The transition to the cloud enhanced operational efficiency, reduced costs, and enabled AI-driven financial insights, positioning Fannie Mae for sustained growth, innovation, and compliance in a competitive market.
 
-[FannieMae Migration to AWS] (https://www.nextplatform.com/2021/12/09/fannie-mae-moves-more-mission-critical-mortgage-work-to-aws/)
+[FannieMae Migration to AWS][migration]
+[migration]: https://www.nextplatform.com/2021/12/09/fannie-mae-moves-more-mission-critical-mortgage-work-to-aws/
 
-![image](https://github.com/user-attachments/assets/a333af22-9942-471c-a400-5f78f3734a96)
+
+
 
