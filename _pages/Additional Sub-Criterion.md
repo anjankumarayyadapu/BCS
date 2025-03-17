@@ -113,8 +113,5 @@ Real-time analytics and AI-driven insights accelerated business decision-making 
 
 Automated governance policies reduced compliance risk by 35%, ensuring adherence to GDPR, HIPAA, and SOC 2.
 
-#### 🏆 Recognition & Awards:
-
-My efforts were recognized internally and externally, earning me a Commitment Award for driving customer success & platform adoption.
 
 By optimizing Cloudera’s platform, automating data pipelines, and enabling AI-driven analytics, I empowered financial and healthcare organizations to extract more value from their data. This initiative not only enhanced scalability, efficiency, and security but also transformed decision-making capabilities, positioning these clients for sustained growth and innovation. 🚀
