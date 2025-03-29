@@ -1,6 +1,6 @@
 ---
 title: "Standing in Community"
-permalink: /Standing in Community/
+permalink: /StandinginCommunity/
 ---
 ## Situation:
 
