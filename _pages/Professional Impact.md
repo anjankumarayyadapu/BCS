@@ -1,6 +1,6 @@
 ---
 title: "Professional Impact"
-permalink: /Professional Impact/
+permalink: /ProfessionalImpact/
 ---
 
 ## Situation:
