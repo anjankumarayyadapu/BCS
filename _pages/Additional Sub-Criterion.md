@@ -1,6 +1,6 @@
 ---
 title: "Additional Sub-Criterion"
-permalink: /Additional Sub-Criterion/
+permalink: /AdditionalSub-Criterion/
 ---
 ## Situation:
 
