@@ -1,5 +1,5 @@
 ---
-permalink: /Body of Work/
+permalink: /BodyofWork/
 title: "Body of Work"
 ---
 
