@@ -16,8 +16,8 @@ Below are the supporting evidences for the various categories:
 - [Additional Sub-Criterion][sub]
 - [Standing in Community][community]
 
-[bodyofwork]: https://anjankumarayyadapu.github.io/BCS/Body%20of%20Work/
-[professional]: https://anjankumarayyadapu.github.io/BCS/Professional%20Impact/
-[sub]: https://anjankumarayyadapu.github.io/BCS/Additional%20Sub-Criterion/
-[community]: https://anjankumarayyadapu.github.io/BCS/Standing%20in%20Community/
+[bodyofwork]: https://anjankumarayyadapu.github.io/BCS/BodyofWork/
+[professional]: https://anjankumarayyadapu.github.io/BCS/ProfessionalImpact/
+[sub]: https://anjankumarayyadapu.github.io/BCS/AdditionalSub-Criterion/
+[community]: https://anjankumarayyadapu.github.io/BCS/StandinginCommunity/
 
